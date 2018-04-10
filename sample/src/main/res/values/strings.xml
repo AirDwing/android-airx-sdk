@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AirX Sample</string>
+
+    <array name="upload_type">
+        <item>png</item>
+        <item>jpg</item>
+        <item>jpeg</item>
+    </array>
+</resources>
